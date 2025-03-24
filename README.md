@@ -2,12 +2,6 @@
   <img align="right" alt="Coding" width="auto" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1MTk2NjQsIm5iZiI6MTczNDUxOTM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE4VDEwNTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNjBlNjUyNzBkOGI1MWJiYjY5MjdkNWYzOTNiZDU5ZjgyN2UyMWYxNDExOTI1MmJmODg4NDVjMzliYjNiNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R2wu-ySzngpkaQibjstc7xOtK5RGNcUS9hN788-bb54">
 
 <h3 align="center">🌱 Software Engineer 🌱</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
-</p>
-
-
-
 <br>
 
 👨‍💻 About Me:
