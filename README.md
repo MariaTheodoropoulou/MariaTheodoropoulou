@@ -4,10 +4,11 @@
 <h3 align="center">🐱 Software Engineer 🐱</h3>
 <br>
 
-👨‍💻 About Me:
-🎓 I’m a software developer specializing in Java Spring Boot.
-🚀 I love building clean and efficient code, focusing on Web Development and Back-End Systems.
-💬 Ask me about anything tech-related; I’m always happy to help.
+## 👨‍💻 About Me  
+🎓 I’m a passionate software developer with a focus on Java Spring Boot. <br>  
+🚀 I enjoy building scalable and efficient back-end systems. <br>  
+💬 Always happy to discuss tech and share knowledge!  
+
 ---
 🛠️ Tech Stack:
 <div align="center">
