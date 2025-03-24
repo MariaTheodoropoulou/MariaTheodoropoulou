@@ -39,4 +39,3 @@
 🔗 Connect with Me:
 📫 [Email](m.theodoropoulou.97@gmail.com)
 💼 [LinkedIn](www.linkedin.com/in/mtheodoropoulou)
-🌐 Portfolio
