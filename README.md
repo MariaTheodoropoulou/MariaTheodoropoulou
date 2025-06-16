@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td>
+    <td align="right">
       <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200"/>
     </td>
     <td>
