@@ -6,18 +6,17 @@
 
 ## 👨‍💻 About Me  
 
-
 <table>
   <tr>
-    <td style="display:flex;" align="right">
-      <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200"/>
-    </td>
     <td>
       <ul>
         <li>🎓 I’m a passionate software developer with a focus on Java Spring Boot.</li>
         <li>🚀 I enjoy building scalable and efficient back-end systems.</li>
         <li>💬 Always happy to discuss tech and share knowledge!</li>
       </ul>
+    </td>
+    <td>
+      <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200"/>
     </td>
   </tr>
 </table>
