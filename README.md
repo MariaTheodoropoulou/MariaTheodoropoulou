@@ -1,15 +1,22 @@
 <h1 align="center">Hi, I'm Maria 👋</h1>
-  <img align="right" alt="Coding" width="auto" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1MTk2NjQsIm5iZiI6MTczNDUxOTM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE4VDEwNTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNjBlNjUyNzBkOGI1MWJiYjY5MjdkNWYzOTNiZDU5ZjgyN2UyMWYxNDExOTI1MmJmODg4NDVjMzliYjNiNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R2wu-ySzngpkaQibjstc7xOtK5RGNcUS9hN788-bb54">
+<img align="right" alt="Coding" width="auto" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=...">
 
 <h3 align="center">🐱 Software Engineer 🐱</h3>
 <br>
 
 ## 👨‍💻 About Me  
-🎓 I’m a passionate software developer with a focus on Java Spring Boot. <br>  
-🚀 I enjoy building scalable and efficient back-end systems. <br>  
-💬 Always happy to discuss tech and share knowledge!  
+
+<div align="left" style="display: flex; align-items: center;">
+  <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200" style="margin-right: 20px;" align="left"/>
+  <div>
+    🎓 I’m a passionate software developer with a focus on Java Spring Boot. <br>  
+    🚀 I enjoy building scalable and efficient back-end systems. <br>  
+    💬 Always happy to discuss tech and share knowledge!
+  </div>
+</div>
 
 ---
+
 🛠️ Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,7 +31,7 @@
 
 ---
 
-<h3>📈Stats:</h3>
+<h3>📈 Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaTheodoropoulou&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -32,11 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaTheodoropoulou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
 ---
 
-
-
-🔗 Connect with Me:
-📫 [Email](m.theodoropoulou.97@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/mtheodoropoulou)
+🔗 Connect with Me:  
+📫 [Email](mailto:m.theodoropoulou.97@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mtheodoropoulou)
