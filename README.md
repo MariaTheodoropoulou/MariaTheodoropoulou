@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 
 <div align="left" style="display: flex; align-items: center;">
-  <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200" style="margin-right: 20px;" align="left"/>
+  <img src="./b41c8802-0ad2-4c1a-a40e-c0e400d4bd76.png" alt="Studio Ghibli Cat" width="200" style="margin-right: 20px;" align="right"/>
   <div>
     🎓 I’m a passionate software developer with a focus on Java Spring Boot. <br>  
     🚀 I enjoy building scalable and efficient back-end systems. <br>  
