@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
----
 
 <!-- <h3>📈 Stats:</h3>
 
